@@ -21,5 +21,6 @@ int main()
     cout<<"input the number : ";
     cin>>n;
     Divisor(n);
+    Divisor(n+1);
     return 0;
 }
